@@ -59,3 +59,10 @@ body {
 	display: block;
 	color: white;
 }
+
+.text1, .text2
+{
+	color:#ffffff;
+	font-size: 18px;
+	margin-left: 25px;
+}
