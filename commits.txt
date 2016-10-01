@@ -1,0 +1,12 @@
+commit 37a6211b9c609b184d7c6d054b1d728b7e1c8c3b
+Author: Diego <dijaq08@gmail.com>
+Date:   Fri Sep 16 22:57:04 2016 -0500
+
+    Agregue texto debajo de la hora
+
+
+commit 498b840b36e9526a1307ea7408f50f0b742d20be
+Author: Diego <dijaq08@gmail.com>
+Date:   Fri Sep 16 22:39:22 2016 -0500
+
+    Inicio
